@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.destination-card {
+  background-color: white;
+  padding: 6px;
+}
+.destination-pic {
+  height: 200px;
+  width: 260px;
+  border-radius: 4px;
+}
+.name {
+  color: #000000;
+}
